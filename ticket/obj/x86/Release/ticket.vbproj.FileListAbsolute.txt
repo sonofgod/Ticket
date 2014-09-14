@@ -1,0 +1,11 @@
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\bin\Release\ticket.exe
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\bin\Release\ticket.pdb
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\bin\Release\ticket.xml
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\Interop.ADODB.dll
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.vbproj.ResolveComReference.cache
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.Form1.resources
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.Resources.resources
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.vbproj.GenerateResource.Cache
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.exe
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.xml
+C:\Users\SonofGod\Documents\Visual Studio 2010\Projects\ticket\ticket\obj\x86\Release\ticket.pdb
