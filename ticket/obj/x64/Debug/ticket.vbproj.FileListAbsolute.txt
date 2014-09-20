@@ -1,0 +1,11 @@
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\Interop.ADODB.dll
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.vbproj.ResolveComReference.cache
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\bin\x64\Debug\ticket.exe
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\bin\x64\Debug\ticket.pdb
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\bin\x64\Debug\ticket.xml
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.Form1.resources
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.Resources.resources
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.vbproj.GenerateResource.Cache
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.exe
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.xml
+C:\Users\jonathan\Documents\GitHub\Ticket\ticket\obj\x64\Debug\ticket.pdb
